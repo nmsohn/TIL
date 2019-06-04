@@ -1,3 +1,33 @@
+Insert element into sorted list 
+Given a sorted list with an unsorted number e in the rightmost cell, can you write some simple code to insert e into the array so that it remains sorted?
+
+Since this is a learning exercise, it won't be the most efficient way of performing the insertion. It will instead demonstrate the brute-force method in detail.
+
+##Function Description
+
+Complete the insertionSort1 function in the editor below. It should print the interim and final arrays, each on a new line.
+
+insertionSort1 has the following parameter(s):
+
+- n: an integer, the size of 
+- arr: an array of integers to sort
+
+##Sample Input
+```
+5
+2 4 6 8 3
+```
+
+##Sample Output
+```
+2 4 6 8 8 
+2 4 6 6 8 
+2 4 4 6 8 
+2 3 4 6 8 
+```
+
+## Solution
+```
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -50,3 +80,4 @@ public class Solution {
         scanner.close();
     }
 }
+```

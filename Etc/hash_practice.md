@@ -1,3 +1,7 @@
+Find the sum and the average of the values in the array
+
+## Solution
+```
 array = ["Auckland,jan,123", "Auckland,feb,234"]
 hash ||= {}
 sum =0
@@ -8,3 +12,4 @@ sum = hash.map{|k,v| v[2].to_i }.sum
 avg = sum / hash.size
 
 arr << [hash[0][0], sum, avg]
+```
