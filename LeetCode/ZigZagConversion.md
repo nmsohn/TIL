@@ -35,6 +35,12 @@ Y A   H R
 P     I
 ```
 
+## Solution
+
+There is a arithmetic sequence found in the first and the last rows. The common difference here is 2(rows-1).
+
+There is a regular pattern also found in other rows which is 2(rows-1) - 2(i).
+
 ```
 class Solution {
     public String convert(String s, int numRows) {
