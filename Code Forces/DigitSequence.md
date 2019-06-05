@@ -1,0 +1,36 @@
+## Digits Sequence (Easy Edition)
+time limit per test1 second
+memory limit per test256 megabytes
+inputstandard input
+outputstandard output
+
+Let's write all the positive integer numbers one after another from 11 without any delimiters (i.e. as a single string). It will be the infinite sequence starting with 123456789101112131415161718192021222324252627282930313233343536...
+
+Your task is to print the 𝑘k-th digit of this sequence.
+
+## Solution
+```
+import java.util.Scanner;
+
+public class Main {
+  public static int digitSequence(int loc){
+    String s = "";
+    int count =0;
+    int i=1;
+    while(count < loc){
+      s+= Integer.toString(i);
+      i++;
+      count = s.length();
+    };
+    int result = Character.getNumericValue(s.charAt(loc-1));
+
+    return result;
+  }
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    int loc = sc.nextInt();
+    sc.close();
+    System.out.println(digitSequence(loc));
+  }
+}
+```
