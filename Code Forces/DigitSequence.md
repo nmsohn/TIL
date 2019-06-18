@@ -1,8 +1,4 @@
 ## Digits Sequence (Easy Edition)
-time limit per test1 second
-memory limit per test256 megabytes
-inputstandard input
-outputstandard output
 
 Let's write all the positive integer numbers one after another from 11 without any delimiters (i.e. as a single string). It will be the infinite sequence starting with 123456789101112131415161718192021222324252627282930313233343536...
 
