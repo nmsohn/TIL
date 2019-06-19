@@ -33,3 +33,6 @@ class Solution {
     }
 }
 ```
+
+## Note
+`(max - min)>>>2` resulted in time limit exceeded
