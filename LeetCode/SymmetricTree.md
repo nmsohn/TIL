@@ -47,3 +47,6 @@ public class Solution {
     }
 }
 ```
+
+## Note
+Avoid using Equals() -> time exceeded
