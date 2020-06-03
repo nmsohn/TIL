@@ -43,21 +43,20 @@ class MinHeap{
 
         private void minHeapify(int pos){
             //자식 노드 있을 때
-            if(!isLeaf(pos)){
-                //자식 노드 값보다 클 때
-                if(heap[pos] > heap[leftChild(pos)] || heap[pos] > heap[rightChild(pos)])
-                {
-                    //왼쪽 노드가 작으면
-                    if(heap[leftChild(pos)] < heap[rightChild(pos)]){
-                        //현재 노드와 왼쪽 노드 교환
-                        swap(pos, leftChild(pos));
-                        //현재 노드 = 왼쪽 노드
-                        minHeapify(leftChild(pos));
-                    }else{
-                        //오른쪽 노드가 작으면
-                        swap(pos, rightChild(pos));
-                        minHeapify(rightChild(pos));
-                    }
+            if(isLeaf(pos)) return;
+            //자식 노드 값보다 클 때
+            if(heap[pos] > heap[leftChild(pos)] || heap[pos] > heap[rightChild(pos)])
+            {
+                //왼쪽 노드가 작으면
+                if(heap[leftChild(pos)] < heap[rightChild(pos)]){
+                    //현재 노드와 왼쪽 노드 교환
+                    swap(pos, leftChild(pos));
+                    //현재 노드 = 왼쪽 노드
+                    minHeapify(leftChild(pos));
+                }else{
+                    //오른쪽 노드가 작으면
+                    swap(pos, rightChild(pos));
+                    minHeapify(rightChild(pos));
                 }
             }
         }
