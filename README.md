@@ -1,4 +1,4 @@
-**Table of contents**
+**[Table of contents]**
 - [✔Algorithms](#algorithms)
   - [Heap](#heap)
   - [Stack/Queue](#stackqueue)
