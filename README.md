@@ -1,6 +1,8 @@
 # TIL
 Repositories of what I have learned
 
+[TOC]
+
 ## Algorithms
 ### Heap
 
