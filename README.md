@@ -1,6 +1,31 @@
 # TIL
 
-<!-- TOC -->autoauto- [TIL](#til)auto    - [Algorithms](#algorithms)auto        - [Heap](#heap)auto        - [Stack/Queue](#stackqueue)auto        - [DP](#dp)auto        - [Hash](#hash)auto        - [Greedy](#greedy)auto        - [Sort](#sort)auto        - [DFS/BFS](#dfsbfs)auto        - [Graph](#graph)auto        - [Binary Search](#binary-search)auto        - [Brute Force](#brute-force)auto        - [Two Pointers](#two-pointers)auto        - [String](#string)auto        - [Divide and Conquer](#divide-and-conquer)auto        - [Bitwise](#bitwise)auto        - [Math](#math)auto    - [OOP](#oop)auto    - [Data Structure](#data-structure)auto    - [Design Patterns](#design-patterns)auto    - [Devops](#devops)auto    - [AWS](#aws)auto    - [System Design/Architecture](#system-designarchitecture)auto    - [SQL](#sql)autoauto<!-- /TOC -->
+<!-- TOC -->
+- [TIL](#til)
+  - [Algorithms](#algorithms)
+    - [Heap](#heap)
+    - [Stack/Queue](#stackqueue)
+    - [DP](#dp)
+    - [Hash](#hash)
+    - [Greedy](#greedy)
+    - [Sort](#sort)
+    - [DFS/BFS](#dfsbfs)
+    - [Graph](#graph)
+    - [Binary Search](#binary-search)
+    - [Brute Force](#brute-force)
+    - [Two Pointers](#two-pointers)
+    - [String](#string)
+    - [Divide and Conquer](#divide-and-conquer)
+    - [Bitwise](#bitwise)
+    - [Math](#math)
+  - [OOP](#oop)
+  - [Data Structure](#data-structure)
+  - [Design Patterns](#design-patterns)
+  - [Devops](#devops)
+  - [AWS](#aws)
+  - [System Design/Architecture](#system-designarchitecture)
+  - [SQL](#sql)
+<!-- /TOC -->
 
 ## Algorithms
 ### Heap
