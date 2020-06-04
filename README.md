@@ -1,6 +1,5 @@
 # TIL
 
-<!-- TOC -->
 - [TIL](#til)
   - [Algorithms](#algorithms)
     - [Heap](#heap)
@@ -22,10 +21,9 @@
   - [Data Structure](#data-structure)
   - [Design Patterns](#design-patterns)
   - [Devops](#devops)
-  - [AWS](#aws)
+    - [AWS](#aws)
   - [System Design/Architecture](#system-designarchitecture)
   - [SQL](#sql)
-<!-- /TOC -->
 
 ## Algorithms
 ### Heap
@@ -94,7 +92,7 @@
 ## Design Patterns
 
 ## Devops
-## AWS
+### AWS
 - [CI/CD Github Action using ECS/ECR](/AWS/ci_github_action.md)
 
 ## System Design/Architecture
