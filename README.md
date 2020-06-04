@@ -1,7 +1,7 @@
 # TIL
 
 - [TIL](#til)
-  - [Algorithms](#algorithms)
+  - [📌Algorithms](#algorithms)
     - [Heap](#heap)
     - [Stack/Queue](#stackqueue)
     - [DP](#dp)
@@ -17,15 +17,15 @@
     - [Divide and Conquer](#divide-and-conquer)
     - [Bitwise](#bitwise)
     - [Math](#math)
-  - [OOP](#oop)
-  - [Data Structure](#data-structure)
-  - [Design Patterns](#design-patterns)
-  - [Devops](#devops)
+  - [📌OOP](#oop)
+  - [📌Data Structure](#data-structure)
+  - [📌Design Patterns](#design-patterns)
+  - [📌Devops](#devops)
     - [AWS](#aws)
-  - [System Design/Architecture](#system-designarchitecture)
-  - [SQL](#sql)
+  - [📌System Design/Architecture](#system-designarchitecture)
+  - [📌SQL](#sql)
 
-## Algorithms
+## 📌Algorithms
 ### Heap
 
 ### Stack/Queue
@@ -85,16 +85,16 @@
 ### Math
 - [Leetcode 7](Algorithms\LeetCode\ReverseInteger.md)
 
-## OOP
+## 📌OOP
 
-## Data Structure
+## 📌Data Structure
 
-## Design Patterns
+## 📌Design Patterns
 
-## Devops
+## 📌Devops
 ### AWS
 - [CI/CD Github Action using ECS/ECR](/AWS/ci_github_action.md)
 
-## System Design/Architecture
+## 📌System Design/Architecture
 
-## SQL
+## 📌SQL
