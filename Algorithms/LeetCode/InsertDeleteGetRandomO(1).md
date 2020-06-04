@@ -1,3 +1,4 @@
+## [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 Design a data structure that supports all following operations in average **O(1)** time.
 
 1. `insert(val)`: Inserts an item val to the set if not already present.

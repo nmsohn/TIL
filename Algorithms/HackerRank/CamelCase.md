@@ -1,3 +1,6 @@
+[Problem link](https://www.hackerrank.com/challenges/camelcase/problem)
+
+## Problem
 Alice wrote a sequence of words in CamelCase as a string of letters, s, having the following properties:
 
 It is a concatenation of one or more words consisting of English letters.
@@ -30,7 +33,7 @@ saveChangesInTheEditor
 5
 ```
 
-## Solution
+## Solution (Java)
 ```
 import java.io.*;
 import java.util.*;
@@ -74,3 +77,5 @@ class Main {
   }
 } 
 ```
+
+## Review

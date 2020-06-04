@@ -1,3 +1,5 @@
+[문제링크](https://www.acmicpc.net/problem/2578)
+
 ## Problem
 계단 오르는 데는 다음과 같은 규칙이 있다.
 
@@ -62,7 +64,7 @@ dp[n] = dp[n-2] + stairs[n]
 
 Compare the two scenarios, find the maximum score.
 
-## Solution
+## Solution (Java)
 ```
 import java.util.Scanner;
 public class Main {
@@ -81,3 +83,5 @@ public class Main {
 	}
 }
 ```
+
+## Review

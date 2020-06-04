@@ -1,4 +1,4 @@
-# Problem
+# [Problem](https://leetcode.com/problems/intersection-of-two-arrays/)
 Given two arrays, write a function to compute their intersection.
 
 ## Example 1:
@@ -49,3 +49,5 @@ public class Solution {
     }
 }
 ```
+
+## Review
