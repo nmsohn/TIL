@@ -16,6 +16,7 @@ Commit to learn algorithms, data structure and any problem solving quizzes every
 # Design Patterns
 
 # Devops
-- Azures, AWS
+## AWS
+- [CI/CD Github Action using ECS/ECR](/AWS/ci_github_action.md)
 
 # System Design/Architecture
