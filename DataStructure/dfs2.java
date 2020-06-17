@@ -1,10 +1,14 @@
+//인접 행렬을 이용한 구현
 class DFS{
     private int V;
+    //2차 배열 그래프
     private int[][] dfsGraph;
+    //방문 표시
     private boolean[] visitArr;
 
     public DFS(int V){
         this.V = V;
+        //Graph의 0은 비워둠
         this.dfsGraph = new int[this.V + 1][this.V + 1];
         this.visitArr = new boolean[this.V + 1];
     }
@@ -32,11 +36,14 @@ class DFS{
     }
 
     public void dfs(int idx){
+        //방문표시
         this.visitArr[idx] = true;
         System.out.print(idx + " ");
 
         for(int i = 1; i<=this.V; i++){
+            //연결되어 있지만 방문하지 않았음
             if(dfsGraph[idx][i] == 1 && visitArr[i] == false){
+                //재귀호출
                 dfs(i);
             }
         }

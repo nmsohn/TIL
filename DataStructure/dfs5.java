@@ -1,3 +1,4 @@
+//인접 리스트로 구현
 class DFS{
     private int V;
     private ArrayList<ArrayList<Integer>> dfsGraph;
@@ -44,6 +45,7 @@ class DFS{
         System.out.print(idx + " ");
 
         for(int i : this.dfsGraph.get(idx)){
+            //방문했는지만 확인
             if(this.visitArr[i] == false){
                 dfs(i);
             }
