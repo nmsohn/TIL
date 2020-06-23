@@ -13,7 +13,7 @@
 [⬆TOP](#TOC)
 
 ### Stack/Queue
-|1|
+|toc|
 |---|
 |[백준 10828](Algorithms/Baekjoon/10828_stack.md)|
 |[프로그래머스 완주하지 못한 선수](Algorithms/Programmers/완주하지못한선수.md)|
@@ -22,7 +22,7 @@
 [⬆TOP](#TOC)
 
 ### DP
-|1|
+|toc|
 |---|
 |[백준 9095](Algorithms/Baekjoon/9095_dp.md)|
 |[백준 11052](Algorithms/Baekjoon/11052_dp.md)|
@@ -32,7 +32,7 @@
 [⬆TOP](#TOC)
 
 ### Hash
-|1|
+|toc|
 |---|
 |[Leetcode 349](Algorithms/LeetCode/349InterSectionOfTwoArrays.md)|
 |[코딩 테스트](Algorithms/Etc/hash_practice.md)|
@@ -45,7 +45,7 @@
 [⬆TOP](#TOC)
 
 ### Sort
-|1|
+|toc|
 |---|
 |[백준 2959](Algorithms/Baekjoon/2959KORNISLAV.md)|
 |[Hacker Rank Insertion Sort part1](Algorithms/HackerRank/InsertionSort.md)|
@@ -56,7 +56,7 @@
 [⬆TOP](#TOC)
 
 ### DFS/BFS
-|1|
+|toc|
 |---|
 |[Leetcode 112](Algorithms/LeetCode/112PathSum.md)|
 |[Leetcode 101](Algorithms/LeetCode/SymmetricTree.md)|
@@ -67,7 +67,7 @@
 [⬆TOP](#TOC)
 
 ### Binary Search
-|1|
+|toc|
 |---|
 |[백준 1920](Algorithms/Baekjoon/1920_find_num.md)|
 |[Leetcode 153](Algorithms/LeetCode/FindMinimum.md)|
@@ -80,7 +80,7 @@
 [⬆TOP](#TOC)
 
 ### Two Pointers
-|1|
+|toc|
 |---|
 |[Leetcode 11](Algorithms/LeetCode/ContainerWithMostWater.md)|
 |[Leetcode 27](Algorithms/LeetCode/RemoveElement.md)|
@@ -88,7 +88,7 @@
 [⬆TOP](#TOC)
 
 ### String
-|1|
+|toc|
 |---|
 |[Code Forces 1177A](Algorithms/CodeForces/1177a.md)|
 |[Hacker Rank CamelCase](Algorithms/HackerRank/CamelCase.md)|
@@ -98,7 +98,7 @@
 [⬆TOP](#TOC)
 
 ### Divide and Conquer
-|1|
+|toc|
 |---|
 |[Leetcode 169](https://leetcode.com/problems/majority-element/)|
 
@@ -108,14 +108,14 @@
 [⬆TOP](#TOC)
 
 ### Math
-|1|
+|toc|
 |---|
 |[Leetcode 7](Algorithms/LeetCode/ReverseInteger.md)|
 
 [⬆TOP](#TOC)
 
 ## OOP
-|1|
+|toc|
 |---|
 |[오브젝트 요약](OOP/오브젝트/오브젝트.md)|
 
@@ -129,7 +129,7 @@
 
 ## Devops
 ### AWS
-|1|
+|toc|
 |---|
 |[CI/CD Github Action using ECS/ECR](/AWS/ci_github_action.md)|
 
@@ -142,7 +142,7 @@
 [⬆TOP](#TOC)
 
 ## Languages
-|1|
+|toc|
 |---|
 |[IEnumerator vs Iterator](Languages/IEnumerator.md)|
 
