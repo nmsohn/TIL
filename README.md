@@ -16,6 +16,7 @@
     - [Divide and Conquer](#divide-and-conquer)
     - [Bitwise](#bitwise)
     - [Math](#math)
+    - [Etc](#etc)
   - [OOP](#oop)
   - [Data Structure](#data-structure)
   - [Design Patterns](#design-patterns)
@@ -128,6 +129,13 @@
 |toc|
 |---|
 |[Leetcode 7](Algorithms/LeetCode/ReverseInteger.md)|
+
+[⬆TOP](#TOC)
+
+### Etc
+|toc|
+|---|
+|[IO](baekjoon/../Algorithms/Baekjoon/io.md)|
 
 [⬆TOP](#TOC)
 
