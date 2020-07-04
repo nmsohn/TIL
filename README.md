@@ -1,12 +1,29 @@
 # TOC
-- [Algorithms](#algorithms)
-- [OOP](#oop)
-- [Data Structure](#data-structure)
-- [Design Patterns](#design-patterns)
-- [Devops](#devops)
-- [System Design/Architecture](#system-designarchitecture)
-- [SQL](#sql)
-- [Languages](#languages)
+- [TOC](#toc)
+  - [Algorithms](#algorithms)
+    - [Heap](#heap)
+    - [Stack/Queue](#stackqueue)
+    - [DP](#dp)
+    - [Hash](#hash)
+    - [Greedy](#greedy)
+    - [Sort](#sort)
+    - [DFS/BFS](#dfsbfs)
+    - [Graph](#graph)
+    - [Binary Search](#binary-search)
+    - [Brute Force](#brute-force)
+    - [Two Pointers](#two-pointers)
+    - [String](#string)
+    - [Divide and Conquer](#divide-and-conquer)
+    - [Bitwise](#bitwise)
+    - [Math](#math)
+  - [OOP](#oop)
+  - [Data Structure](#data-structure)
+  - [Design Patterns](#design-patterns)
+  - [Devops](#devops)
+    - [AWS](#aws)
+  - [System Design/Architecture](#system-designarchitecture)
+  - [SQL](#sql)
+  - [Languages](#languages)
 
 ## Algorithms
 ### Heap
@@ -145,5 +162,6 @@
 |toc|
 |---|
 |[IEnumerator vs Iterator](Languages/IEnumerator.md)|
+|[Algorithms IO](Languages/IO.md)|
 
 [⬆TOP](#TOC)
