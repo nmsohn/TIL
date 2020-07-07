@@ -171,5 +171,6 @@
 |---|
 |[IEnumerator vs Iterator](Languages/IEnumerator.md)|
 |[Algorithms IO](Languages/IO.md)|
+|[Garbage Collection I](Languages/GC.md)|
 
 [⬆TOP](#TOC)
