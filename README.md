@@ -46,6 +46,7 @@
 |[백준 11052](Algorithms/Baekjoon/11052_dp.md)|
 |[백준 14501](Algorithms/Baekjoon/14501_dp.md)|
 |[백준 2578](Algorithms/Baekjoon/2578_stairs.md)|
+|[백준 11726](Algorithms/Baekjoon/11726_dp.md)|
 
 [⬆TOP](#TOC)
 
