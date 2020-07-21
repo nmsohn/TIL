@@ -143,7 +143,7 @@
 ## OOP
 |toc|
 |---|
-|[오브젝트 요약](OOP/오브젝트/오브젝트.md) [(en)](OOP/Object/Object.md)|
+|[오브젝트 요약](OOP/오브젝트/오브젝트.md) [(en version here)](OOP/Object/Object.md)|
 
 [⬆TOP](#TOC)
 
