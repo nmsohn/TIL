@@ -171,8 +171,8 @@
 |C#|Javascript|
 |---|---|
 |[IEnumerator vs Iterator](Languages/IEnumerator.md)||
-|[Algorithms IO](Languages/IO.md)||
+|[Algorithms IO (en)](Languages/IO.md)||
 |[Garbage Collection I](Languages/GC.md)||
-|[IEnumerable vs IQueryable](Languages/IEnumerableIQueryable.md)||
+|[IEnumerable vs IQueryable (en)](Languages/IEnumerableIQueryable.md)||
 
 [⬆TOP](#TOC)
