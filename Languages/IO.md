@@ -1,23 +1,23 @@
 
-알고리즘 문제를 풀다보면 Java로 stdin/stdout 하는 방법이 크게 두 가지로 나누어진다. 하나는 Scanner와 PrintStream를 사용하는 것이고 다른 하나는 BufferedReader와 BufferedWriter를 사용하는 것이다.  알고리즘 문제를 풀 때 둘 중 어느 방법이 더 나을까?
+When you are doing ps in Java, there are mainly two ways to do stdin/stdout. One is using Scanner and PrintStream and another is using BufferedReader and BufferedWriter. Which one is showing better performance during ps?
 
 # Scanner vs BufferedReader
 
-## 버퍼메모리
+## Buffer 🗃
 
-Scanner는 1024 chars , BufferedReader는 8192 chars  크기를 갖는 인스턴스를 생성한다. 만약 읽어오는 string 양이 많으면 BufferedReader를 쓰는 것이 낫다. 다만 알고리즘 문제를 풀 때 방대한 양을 불러올 일이 없기 때문에 버퍼 메모리 차이는 크게 상관 없다고 본다.
+Scanner and BufferedReader each genereates the instance of 1024 chars and of 8192 chars. If you are reading large amount of string, it is better using BufferedReader. But you rarely encounters algorithms problems that require you to load large amount of string. This may not be the critical difference. 
 
-## 용이성
+## Convenience 🏝
 
-BufferedReader는 데이터만 읽어들일 수 있는 반면에 Scanner는 data를 nextInt() 와 같이 파싱하는 기능이 있다.  BufferedReader는 오직 string만 읽을 수 있기 때문에 int로 불러올려면 Integer.parseInt(br.readLine()) 와 같이 따로 파싱을 해주어야 한다. 또 BufferedReader는 new line만 경계로 인식하기 때문에 white space가 있는 경우 StringTokenizer를 써줘야 한다.
+While BufferedReader can only read data, Scanner provides more parsing functionality like nextInt(). BufferedReader can only read string so if you want to get integer, you will need to parse it using `Integer.parseInt(br.readLine())`. Also, BufferedReader can consider new line as an end. If there is white space, you need to use StringTokenizer.
 
-또, Scanner는 따로 예외 처리를 해줄 필요가 없지만 BufferedReader는 CheckedException이 있어 반드시 IOException를 처리해야한다. 
+Another difference is that Scanner does not require tyr-catch but BufferedReader has CheckedException. You need to catch IOException as mandatory.
 
-## 속도
+## Speed 🌀🌀
 
- BufferedReader는 buffering이라는 기능을 써서 디스크나 stdin에서 불러오는 횟수를 줄여 준다. 매번 읽어오는 것이 아니라 한번에 데이터 chunk로 나눠서 읽어온 후 메인 메모리(버퍼)에 복사한다. 사용자가 필요할 때마다 버퍼에서 불러오기 때문에 속도가 빠르다.  아마 BufferedReader를 사용하는 가장 강력한 이유일 것이다.
+ BufferedReader use a technique called buffering and reduces the frequency of calling data from disk or stdin. Instead of reading string every time, it reads data in chunks at once and copy them into main memory (buffer). A user reads data from buffer when needed. This is a lot faster. This is the main reason using BufferedReader over Scanner.
 
-## 사용법
+## Examples
 
 ### Scanner
 
@@ -32,21 +32,21 @@ while(sc.next()){
 ### BufferedReader
 
 ```
-BufferedReader br = new BufferedReader(new InputStreamReader(System.in));  //InputStreamReader를 데코레이팅해서 사용. byte 스트림을 char 스트림으로 바꿔주는 InputStreamReader
-//라인 단위로 입력받기 때문에, 한 줄에 공란을 경계로 여러 값이 입력된 경우라면 파싱이 필수 -> StringTokenizer 사용하면 됨 
+BufferedReader br = new BufferedReader(new InputStreamReader(System.in));  //Decorating with InputStreamReader. Convert byte 스트림 into char using InputStreamReader
+//Input is done per line. If there are whitespaces in one line, parsing is required. USe StringTokenizer.
 StringTokenizer st = new StringTokenizer(br.readLine()); 
-//한줄로 있는거 
+//One line
 Integer.parseInt(st.nextToken()); 
-//뉴라인 
+//New line 
 Integer.parseInt(br.readLine()); 
 br.close();
 ```
 
 # PrintStream vs BufferedWriter
 
-이 둘도 위에 둘을 비교한 것과 비슷하다. BufferedWriter를 쓰는 편이 성능면에서 더 효율적이다. 대신 BufferedWriter를 사용하면 항상 close()를 해주어야 한다. flush()의 경우 버퍼가 다 차면 알아서 flush해주지만 필요할 경우 직접 flush()해주면 된다.
+The comparison of these two are similar to the explanation above. Using BufferedWriter is faster but you need to do `close()`. `flush()` is not required as BufferedWriter flushes when the buffer is full. If needed, you can do it manually.
 
-## 사용법
+## Examples
 
 ### PrintStream
 

@@ -168,11 +168,11 @@
 [⬆TOP](#TOC)
 
 ## Languages
-|toc|
-|---|
-|[IEnumerator vs Iterator](Languages/IEnumerator.md)|
-|[Algorithms IO](Languages/IO.md)|
-|[Garbage Collection I](Languages/GC.md)|
-|[IEnumerable vs IQueryable](Languages/IEnumerableIQueryable.md)|
+|C#|Javascript|
+|---|---|
+|[IEnumerator vs Iterator](Languages/IEnumerator.md)||
+|[Algorithms IO](Languages/IO.md)||
+|[Garbage Collection I](Languages/GC.md)||
+|[IEnumerable vs IQueryable](Languages/IEnumerableIQueryable.md)||
 
 [⬆TOP](#TOC)
