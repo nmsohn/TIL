@@ -15,7 +15,7 @@
     var notcieArticles = articles.Where(a => a.IsNotice); //Execute SQL
     ```
 
-- IEnumerable는 LINQ-to-object
+- IEnumerable allows LINQ-to-object
     - all matching objects to the query are loaded in database memory
 
         ![IEnumerable](./images/IEnumerable.png)
