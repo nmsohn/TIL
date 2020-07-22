@@ -1,0 +1,2 @@
+# Data Structure
+[⬆TOP](#Structure)
