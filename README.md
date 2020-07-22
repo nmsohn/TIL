@@ -4,10 +4,10 @@
 ## Algorithms
 [Let's go ▶](Algorithms/README.md)
 
-## Data Structure
+## Data Structure (not ready yet)
 [Let's go ▶](DataStructure/README.md)
 
-## Design Pattern
+## Design Pattern (not ready yet)
 [Let's go ▶](DesignPattern/README.md)
 
 ## Devops
@@ -25,8 +25,8 @@
 ## ReactJS
 [Let's go ▶](React/README.md)
 
-## SQL
+## SQL (not ready yet)
 [Let's go ▶](SQL/README.md)
 
-## System Design
+## System Design (not ready yet)
 [Let's go ▶](SystemDesign/README.md)
