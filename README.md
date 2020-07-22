@@ -2,31 +2,31 @@
 > Learning never stops
 
 ## Algorithms
-- [➡](Algorithms/README.md)
+[Let's go ➡](Algorithms/README.md)
 
 ## Data Structure
-- [➡](DataStructure/README.md)
+[Let's go ➡](DataStructure/README.md)
 
 ## Design Pattern
-- [➡](DesignPattern/README.md)
+[Let's go ➡](DesignPattern/README.md)
 
 ## Devops
-- [➡](Devops/README.md)
+[Let's go ➡](Devops/README.md)
 
 ## Java
-- [➡](Java/README.md)
+[Let's go ➡](Java/README.md)
 
 ## CSharp
-- [➡](CSharp/README.md)
+[Let's go ➡](CSharp/README.md)
 
 ## OOP
-- [➡](OOP/README.md)
+[Let's go ➡](OOP/README.md)
   
 ## ReactJS
-- [➡](React/README.md)
+[Let's go ➡](React/README.md)
 
 ## SQL
-- [➡](SQL/README.md)
+[Let's go ➡](SQL/README.md)
 
 ## System Design
-- [➡](SystemDesign/README.md)
+[Let's go ➡](SystemDesign/README.md)
