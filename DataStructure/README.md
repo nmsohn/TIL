@@ -1,2 +1,2 @@
-# Data Structure
-[⬆TOP](#Data Structure)
+# Data-Structure
+[⬆TOP](#Data-Structure)

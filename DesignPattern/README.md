@@ -1,2 +1,2 @@
-# Design Patterns
-[⬆TOP](#Design Patterns)
+# Design-Patterns
+[⬆TOP](#Design-Patterns)
