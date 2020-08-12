@@ -1,4 +1,4 @@
-public class DiscountPolicy {
+public abstract class DefaultDiscountPolicy implements DiscountPolicy {
     private List<DiscountCondition> conditions = new ArrayList<>();
 
     public DiscountPolicy(DiscountCondition ... conditions){
