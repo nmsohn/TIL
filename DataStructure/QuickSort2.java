@@ -1,6 +1,6 @@
 public class QuickSort{
     public static int partition(int arr[], int left, int right){
-        int pivot = arr[left+ (left + right)/2];
+        int pivot = arr[left+ (right - left)/2];
 
         while(left < right){
             while((arr[left] < pivot) && (left < right))
