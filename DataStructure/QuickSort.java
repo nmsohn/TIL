@@ -25,7 +25,7 @@ public class QuickSort {
         //pivot 인덱스
         if (p < end)
             quickSort(array, p, end);
-        return array
+        return array;
     }
 
     public static void main(String[] args) {
