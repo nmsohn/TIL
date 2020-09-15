@@ -14,15 +14,15 @@
 ## DP
 | toc                                  |
 | ------------------------------------ |
-| [백준 9095](Baekjoon/9095_dp.md)     |
-| [백준 11052](Baekjoon/11052_dp.md)   |
-| [백준 14501](Baekjoon/14501_dp.md)   |
-| [백준 2578](Baekjoon/2578_stairs.md) |
-| [백준 11726](Baekjoon/11726_dp.md)   |
-| [백준 1463](Baekjoon/1463_세연산.md) |
-| [백준 11053](Baekjoon/11053_부분수열증가.md)|
-| [백준 11727](Baekjoon/11727_직사각형2.md)|
-|[백준 9095](Baekjoon/9095_정수합.md)|
+| [백준 9095](Baekjoon/dp/9095_dp.md)     |
+| [백준 11052](Baekjoon/dp/11052_dp.md)   |
+| [백준 14501](Baekjoon/dp/14501_dp.md)   |
+| [백준 2578](Baekjoon/dp/2578_stairs.md) |
+| [백준 11726](Baekjoon/dp/11726_dp.md)   |
+| [백준 1463](Baekjoon/dp/1463_세연산.md) |
+| [백준 11053](Baekjoon/dp/11053_부분수열증가.md)|
+| [백준 11727](Baekjoon/dp/11727_직사각형2.md)|
+| [백준 9095](Baekjoon/dp/9095_정수합.md)|
 
 [⬆TOP](#Algorithms)
 
