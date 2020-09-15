@@ -22,6 +22,7 @@
 | [백준 1463](Baekjoon/1463_세연산.md) |
 | [백준 11053](Baekjoon/11053_부분수열증가.md)|
 | [백준 11727](Baekjoon/11727_직사각형2.md)|
+|[백준 9095](Baekjoon/9095_정수합.md)|
 
 [⬆TOP](#Algorithms)
 
