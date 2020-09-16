@@ -48,6 +48,7 @@
 | [프로그래머스 완주하지 못한 선수](Programmers/완주하지못한선수.md) |
 | [Leetcode 242](LeetCode/ValidAnagram.md)                           |
 | [백준 2751](Baekjoon/2751_오름차순.md)                             |
+| [백준 11650](Baekjoon/11650_좌표.md)    |
 
 [⬆TOP](#Algorithms)
 
