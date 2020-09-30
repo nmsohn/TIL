@@ -28,7 +28,7 @@
 ## ReactJS
 [Let's go ▶](React/README.md)
 
-## SQL (not ready yet)
+## SQL
 [Let's go ▶](SQL/README.md)
 
 ## System Design (not ready yet)
