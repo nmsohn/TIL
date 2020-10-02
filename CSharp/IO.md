@@ -16,8 +16,6 @@ using(StreamReader reader = new StreamReader(Socket.GetStream(), Encoding.UTF8))
 
 - 자바에서는 아래와 같이 사용
 
-    [Scanner vs BufferedReader](https://www.notion.so/Scanner-vs-BufferedReader-713c7ca56ac24366af2d7c79a2ce9b13) 
-
     ```csharp
     BufferedReader in = new BufferedReader(new InputStreamReader(this.socket.getInputStream(), "UTF8"));
 
@@ -129,8 +127,6 @@ namespace FastStdIO {
 ## BufferedWriter
 
 - 자바에서 사용
-
-[Scanner vs BufferedReader](https://www.notion.so/Scanner-vs-BufferedReader-713c7ca56ac24366af2d7c79a2ce9b13) 
 
 ## Console.WriteLine()
 
