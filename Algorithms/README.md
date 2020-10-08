@@ -50,13 +50,13 @@
 
 | toc                                                                |
 | ------------------------------------------------------------------ |
-| [백준 2959](Baekjoon/2959KORNISLAV.md)                             |
+| [백준 2959](Baekjoon/Sort/2959KORNISLAV.md)                             |
 | [Hacker Rank Insertion Sort part1](HackerRank/InsertionSort.md)    |
 | [Hacker Rank Insertion Sort part2](HackerRank/InsertionSort2.md)   |
 | [프로그래머스 완주하지 못한 선수](Programmers/완주하지못한선수.md) |
 | [Leetcode 242](LeetCode/ValidAnagram.md)                           |
-| [백준 2751](Baekjoon/2751_오름차순.md)                             |
-| [백준 11650](Baekjoon/11650_좌표.md)                               |
+| [백준 2751](Baekjoon/Sort/2751_오름차순.md)                             |
+| [백준 11650](Baekjoon/Sort/11650_좌표.md)                               |
 
 [⬆TOP](#Algorithms)
 
@@ -85,6 +85,9 @@
 [⬆TOP](#Algorithms)
 
 ## Brute Force
+| toc                                               |
+| ------------------------------------------------- |
+| [Baekjoon 9613](Baekjoon/BF/9613_gcd_합.md) |
 
 [⬆TOP](#Algorithms)
 
