@@ -6,6 +6,6 @@
 | [IEnumerable vs IQueryable (en)](IEnumerableIQueryable.md) | [Thread I](Thread1.md)                      |
 | [Property vs Field vs Member](PropertyFieldMember.md)      | [Managed vs Unmanaged](ManagedUnmanaged.md) |
 | [C#으로 입출력하기](IO.md)                                 |  [Boxing vs Unboxing](boxingunboxing.md) |
-| [Tuple](Tuple.md)                                          |                                             |
+| [Tuple](Tuple.md)                                          | [POCO](POCO.md)                                            |
 
 [⬆TOP](#Csharp)
