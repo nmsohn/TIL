@@ -68,6 +68,7 @@
 | [Leetcode 101](LeetCode/SymmetricTree.md)       |
 | [백준 10819](Baekjoon/DFSBFS/10819_최대차이.md) |
 | [백준 1697](Baekjoon/DFSBFS/1697_숨바꼭질.md)   |
+| [백준 1963](Baekjoon/DFSBFS/1963_소수경로.md)   |
 
 [⬆TOP](#Algorithms)
 
