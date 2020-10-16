@@ -42,7 +42,7 @@
 
 [Let's go ▶](SQL/README.md)
 
-## System Design (not ready yet)
+## System Design
 
 [Let's go ▶](SystemDesign/README.md)
 
