@@ -1,7 +1,7 @@
 # 개념
 ## lock
 
-- 데이터베이스의 consistency 와 integrity를 유지하려면 트랜잭션의 순차적 진행을 보장할 수 있는 [Serialization 직렬화 - C#](https://www.notion.so/Serialization-C-19b9aa13ec764d5484a44463693be72f) 장치가 필요
+- 데이터베이스의 consistency 와 integrity를 유지하려면 트랜잭션의 순차적 진행을 보장할 수 있는 직렬화 장치가 필요
 - 하나의 트랜잭션이 실행하는 동안 특정 데이터 항목에 다른 트랜잭션이 동시에 접근하지 못하도록 상호배제 기능 제공
 
 ### 공유 s-lock
