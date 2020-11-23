@@ -9,5 +9,6 @@
 | [Tuple](Tuple.md)                                          | [POCO](POCO.md)                             |                 |
 | [HashSet](HashSet.md)                                      |   |                 |
 |[Delegate](delegate.md) |||
+|[Class, Object, Instance, module, struct](classobjectstruct.md) |||
 
 [⬆TOP](#Csharp)
