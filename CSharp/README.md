@@ -10,5 +10,6 @@
 | [HashSet](HashSet.md)                                      |   |                 |
 |[Delegate](delegate.md) |||
 |[Class, Object, Instance, module, struct](classobjectstruct.md) |||
+|[IEnumberator vs IEnumerable](IEnumerableIEnumerator.md) |||
 
 [⬆TOP](#Csharp)
