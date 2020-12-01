@@ -1,6 +1,6 @@
 # CSharp
 
-| TOC1                                                       | TOC2                                        | TOC3            |
+| Basics                                                     | Advanced                                    | Architecture            |
 | ---------------------------------------------------------- | ------------------------------------------- | --------------- |
 | [IEnumerator vs Iterator](IEnumerator.md)                  | [Garbage Collection I](GC.md)               | [CQRS](CQRS.md) |
 | [IEnumerable vs IQueryable (en)](IEnumerableIQueryable.md) | [Thread I](Thread1.md)                      |                 |
@@ -11,5 +11,6 @@
 |[Delegate](delegate.md) |||
 |[Class, Object, Instance, module, struct](classobjectstruct.md) |||
 |[IEnumberator vs IEnumerable](IEnumerableIEnumerator.md) |||
+|[Generic](generic.md) |||
 
 [⬆TOP](#Csharp)
